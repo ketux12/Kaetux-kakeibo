@@ -1,2 +1,2 @@
 # Kaetux-kakeibo
-Aplikasi kakeibo offy
+Aplikasi kakeibo offline 
